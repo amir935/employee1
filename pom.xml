@@ -43,7 +43,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>Amir122306</username>
 						<password>Amir122306</password>
-						<applicationName>Amir</applicationName>
+						<applicationName>Amir3</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
